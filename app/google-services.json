@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "18657854507",
+    "project_id": "myfirebaseauthdemo-72e68",
+    "storage_bucket": "myfirebaseauthdemo-72e68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18657854507:android:46e0001024fd34231e966e",
+        "android_client_info": {
+          "package_name": "com.kmtstudio.myfirebaseauthdemo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18657854507-7mrqbulep9sgi8urmdh61tafsvmddlct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKSQca0Ug6qjuWt_vQQf3ZyBnYpRH3WMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18657854507-7mrqbulep9sgi8urmdh61tafsvmddlct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18657854507:android:c631cc72d87f61391e966e",
+        "android_client_info": {
+          "package_name": "com.kmtstudio.myfirebaseauthdemo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18657854507-7mrqbulep9sgi8urmdh61tafsvmddlct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKSQca0Ug6qjuWt_vQQf3ZyBnYpRH3WMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18657854507-7mrqbulep9sgi8urmdh61tafsvmddlct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18657854507:android:ae2c8bcb56e56b0b1e966e",
+        "android_client_info": {
+          "package_name": "com.kmtstudio.myfirebaseauthdemo3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18657854507-7mrqbulep9sgi8urmdh61tafsvmddlct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKSQca0Ug6qjuWt_vQQf3ZyBnYpRH3WMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18657854507-7mrqbulep9sgi8urmdh61tafsvmddlct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
